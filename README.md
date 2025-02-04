@@ -1,4 +1,4 @@
-"""# **Explorando o naufrágio do Titanic - Um Estudo de Ciência / Análise de Dados**
+"""# 🚢**Explorando o naufrágio do Titanic - Um Estudo de Ciência / Análise de Dados**
 
 ![Titanic](https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg)
 
