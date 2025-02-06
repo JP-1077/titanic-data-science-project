@@ -23,8 +23,11 @@ Este projeto tem como objetivo analisar os dados do Titanic para identificar pad
 ## **Principais Técnicas Realizadas**
 
 ✔️**Tratamento de Dados**: Remoção de valores nulos, criação de novas variáveis e tratamento de variaveis categóricas em numéricas.
-✔️ **Análise Univariada**: Distribuição das idades, tarifas, gêneros e classes dos passageiros. 
-✔️ **Análise Bivariada**: Relações entre sobrevivência e fatores como idade, classe social e tarifa.  
+
+✔️ **Análise Univariada**: Distribuição das idades, tarifas, gêneros e classes dos passageiros.
+
+✔️ **Análise Bivariada**: Relações entre sobrevivência e fatores como idade, classe social e tarifa.
+
 ✔️**Visualizações**: Gráficos detalhados para interpretação dos dados.  
 
 ---
