@@ -34,10 +34,14 @@ Este projeto tem como objetivo analisar os dados do Titanic para identificar pad
 
 ## 🔍 **Principais Insights Obtidos**
 
-📌 **Mulheres tiveram uma taxa de sobrevivência significativamente maior do que os homens.**  
-📌 **Passageiros da primeira classe tiveram maiores chances de sobrevivência.**  
-📌 **Crianças foram priorizadas no resgate, tendo taxas de sobrevivência mais altas.**  
-📌 **Quanto maior a tarifa paga, maior a chance de sobrevivência.**  
+📌 **Mulheres tiveram uma taxa de sobrevivência significativamente maior do que os homens.**
+
+📌 **Passageiros da primeira classe tiveram maiores chances de sobrevivência.**
+
+📌 **Crianças foram priorizadas no resgate, tendo taxas de sobrevivência mais altas.**
+
+📌 **Quanto maior a tarifa paga, maior a chance de sobrevivência.**
+
 📌 **Famílias pequenas (2-3 pessoas) tiveram maiores chances de sobrevivência do que passageiros sozinhos ou em famílias grandes.**  
 
 ---
